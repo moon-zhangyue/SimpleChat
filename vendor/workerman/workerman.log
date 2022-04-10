@@ -5,3 +5,6 @@
 2022-02-04 16:38:54 pid:82675 Workerman[start.php] status 
 2022-02-04 17:51:14 pid:66408 Workerman[start.php] stopping ...
 2022-02-04 17:51:14 pid:66408 Workerman[start.php] has been stopped
+2022-04-10 17:56:17 pid:33 Workerman[start.php] start in DEBUG mode
+2022-04-10 17:59:09 pid:33 Workerman[start.php] stopping ...
+2022-04-10 17:59:09 pid:33 Workerman[start.php] has been stopped
